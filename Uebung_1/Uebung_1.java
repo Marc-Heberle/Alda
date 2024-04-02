@@ -13,6 +13,7 @@ public class Uebung_1 {
     }
 
     public boolean connected(int p, int q) {
+
         return find(p) == find(q);
     }
 
@@ -53,7 +54,7 @@ public class Uebung_1 {
 
 
                 if (!uf.connected(p, q)) {
-                    System.out.println("verbunden: " +p+ " und " +q);
+                    System.out.println("schon verbunden: " +p+ " und " +q);
 
 
                 } else {
