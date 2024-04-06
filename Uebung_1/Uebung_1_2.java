@@ -52,7 +52,7 @@ public class Uebung_1_2 {
             if (uf.connected(i,i+1)) {
                 StdOut.println(city1 + " und " + city2 + " sind verbunden");
             } else {
-                StdOut.println(city1 + " und " + city2 + " sind nicht verbunden und werden jetzt verbunden");
+                StdOut.println(city1 + " und " + city2 + " werden jetzt verbunden");
                 uf.union(i, i + 1);
         }
 
