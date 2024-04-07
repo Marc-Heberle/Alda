@@ -45,8 +45,8 @@ public class Uebung_1_3 {
         Path filePath = Paths.get("Uebung_1/Test");
         Scanner Hallo2 = new Scanner(filePath, "UTF-8");
         while (Hallo2.hasNextInt()) {
-            p[counter] = Hallo2.nextInt();
-            q[counter] = Hallo2.nextInt();
+            p [counter] =  Hallo2.nextInt();
+            q [ counter] =  Hallo2.nextInt();
             counter++;
         }
         Stopwatch stopHallo = new Stopwatch();
@@ -55,24 +55,14 @@ public class Uebung_1_3 {
 
             for (int i = 0; i < p.length; i++) {
             if (uf.connected(p[i], q[i])) {
-                System.out.println("schon verbunden: " + p[i] + " und " + q[i]);
-            } else {
+                System.out.println("schon verbunden: " + p[i] + " und " + q[i]);}
+            else {
                 uf.union(p[i], q[i]);
                 System.out.println("jetzt verbunden: " + p[i] + " und " + q[i]);
-            }
-
-
-        }
+            }}
         double elapsedTime = stopHallo.elapsedTime();
         System.out.println("Zeit für Union-Operationen: " + elapsedTime + " Sekunden");
-
-
-
-
-        }
-
-    }
-}
+        }}}
 
 
 
