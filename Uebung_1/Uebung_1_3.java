@@ -43,13 +43,13 @@ public class Uebung_1_3 {
         int q[] = new int[1000];
 
         Path filePath = Paths.get("Uebung_1/Test");
-        Scanner fileScanner = new Scanner(filePath, "UTF-8");
-        while (fileScanner.hasNextInt()) {
-            p[counter] = fileScanner.nextInt();
-            q[counter] = fileScanner.nextInt();
+        Scanner Hallo2 = new Scanner(filePath, "UTF-8");
+        while (Hallo2.hasNextInt()) {
+            p[counter] = Hallo2.nextInt();
+            q[counter] = Hallo2.nextInt();
             counter++;
         }
-        Stopwatch stopwatch = new Stopwatch();
+        Stopwatch stopHallo = new Stopwatch();
         for (int u = 0; u < p.length; u++) {
             uf.union(p[u], q[u]);
 
@@ -63,7 +63,7 @@ public class Uebung_1_3 {
 
 
         }
-        double elapsedTime = stopwatch.elapsedTime();
+        double elapsedTime = stopHallo.elapsedTime();
         System.out.println("Zeit für Union-Operationen: " + elapsedTime + " Sekunden");
 
 
