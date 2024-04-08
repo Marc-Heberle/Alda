@@ -45,7 +45,7 @@ public class Uebung_1_3 {
         Scanner Hallo2 = new Scanner(filePath, "UTF-8");
         while (Hallo2.hasNextInt()) {
             p [counter] =  Hallo2.nextInt();
-            q [ counter] =  Hallo2.nextInt();
+            q [counter] =  Hallo2.nextInt();
             counter++;
         }
         Stopwatch stopHallo = new Stopwatch();
