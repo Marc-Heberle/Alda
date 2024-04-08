@@ -34,13 +34,12 @@ public class Uebung_1_3 {
 
 
     public static void main(String[] args) throws IOException {
-        int N = 11;
+        int N = 1000;
         Uebung_1_3 uf = new Uebung_1_3(N);
 
         int counter = 0;
-        int p[] = new int[1000
-                ];
-        int q[] = new int[1000];
+        int p[] = new int[500];
+        int q[] = new int[500];
 
         Path filePath = Paths.get("Uebung_1/Test");
         Scanner Hallo2 = new Scanner(filePath, "UTF-8");
