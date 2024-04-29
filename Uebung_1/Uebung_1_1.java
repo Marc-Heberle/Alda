@@ -27,7 +27,10 @@ public class Uebung_1_1 {
                                         else{
                                     uf.union(p[i], q[i]);
                                     System.out.println("jetzt verbunden: "+p[i]+" und " +q[i]);
+
+
                                 }
+
                             }
 
 

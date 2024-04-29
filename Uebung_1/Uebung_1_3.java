@@ -38,8 +38,8 @@ public class Uebung_1_3 {
         Uebung_1_3 uf = new Uebung_1_3(N);
 
         int counter = 0;
-        int p[] = new int[500];
-        int q[] = new int[500];
+        int p[] = new int[10];
+        int q[] = new int[10];
 
         Path filePath = Paths.get("Uebung_1/Test");
         Scanner Hallo2 = new Scanner(filePath, "UTF-8");
