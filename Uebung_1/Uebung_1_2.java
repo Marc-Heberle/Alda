@@ -44,8 +44,8 @@ public class Uebung_1_2 {
         int q[] = new int[10];
 
 
-        In hallo = new In("Flugverbindungen");
-        String[] city = hallo.readAllStrings();
+        In txt = new In("Flugverbindungen");
+        String[] city = txt.readAllStrings();
         for (int i=0 ;i < city.length-1;i++){
             String city1 = city [i];
             String city2 = city [i + 1];

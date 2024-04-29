@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Uebung_2/InsertionSortNotenMails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uebung_2/StackUPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uebung_2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uebung_2/UPN_Zahlenfolge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/bib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALDA_Uebung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ALDA_Uebung.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung_1/Uebung_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_1/Uebung_1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung_1/Uebung_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_1/Uebung_1_3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2eodQNuDfUY6tQaCS1lwKf9bCiH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InsertionSortNotenMails.executor": "Run",
+    "Application.StackUPN.executor": "Run",
+    "Application.Uebung_1_2.executor": "Run",
+    "Application.Uebung_1_3.executor": "Run",
+    "Application.Uebung_2_1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/annik/Desktop/Semester_1/ALDA/ALDA_Uebung/Uebung_2",
+    "last_opened_file_path": "C:/Users/annik/Desktop/Semester_1/ALDA/ALDA_Uebung",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "dev.gabrielchl.intellijpets.settings.AppSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="notenHTWG" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="" />
+      <created>1712574847905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712574847905</updated>
+    </task>
+    <servers />
+  </component>
+</project>
