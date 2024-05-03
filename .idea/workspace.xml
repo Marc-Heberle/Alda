@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Uebung_2/InsertionSortNotenMails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uebung_2/StackUPN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uebung_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uebung_2/UPN_Zahlenfolge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/bib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" afterDir="false" />
+    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="fertig für den 8.04">
+      <change afterPath="$PROJECT_DIR$/Uebung_3/Mergesort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ALDA_Uebung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ALDA_Uebung.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uebung_1/Uebung_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_1/Uebung_1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uebung_1/Uebung_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_1/Uebung_1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung_3/MergeSort.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +31,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2eodQNuDfUY6tQaCS1lwKf9bCiH" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -49,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.InsertionSortNotenMails.executor": "Run",
+    "Application.Mergesort.executor": "Run",
     "Application.StackUPN.executor": "Run",
     "Application.Uebung_1_2.executor": "Run",
     "Application.Uebung_1_3.executor": "Run",
@@ -56,13 +49,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/annik/Desktop/Semester_1/ALDA/ALDA_Uebung/Uebung_2",
-    "last_opened_file_path": "C:/Users/annik/Desktop/Semester_1/ALDA/ALDA_Uebung",
+    "last_opened_file_path": "C:/Users/march/Desktop/Semster 1/Algorithmen und Datenstrukturen/ALDA_Uebung",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "dev.gabrielchl.intellijpets.settings.AppSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -73,7 +73,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -85,7 +85,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712574847905</updated>
+      <workItem from="1714638930871" duration="60000" />
+      <workItem from="1714646455886" duration="62000" />
+      <workItem from="1714653088599" duration="1905000" />
+      <workItem from="1714722940598" duration="1021000" />
+      <workItem from="1714737676972" duration="1062000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fertig für den 8.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="fertig für den 8.04" />
   </component>
 </project>
