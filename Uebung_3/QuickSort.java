@@ -13,7 +13,7 @@ public class QuickSort {
         zeitStopper.start();
         sortieren( array,0,-1 );
         long abgelaufeneZeit = zeitStopper.umrechner();
-        StdOut.println("Zeit:" + abgelaufeneZeit + " NanoSekunden");
+        StdOut.println("Zeit:" + abgelaufeneZeit + " nanoSekunden");
 
 
     }

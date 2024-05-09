@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="fertig für den 8.04">
-      <change afterPath="$PROJECT_DIR$/Uebung_3/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uebung_3/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_3/Mergesort.java" afterDir="false" />
-    </list>
+    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="fertig für den 9.04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +90,7 @@
       <workItem from="1715078288153" duration="586000" />
       <workItem from="1715169816143" duration="359000" />
       <workItem from="1715270626255" duration="16000" />
-      <workItem from="1715271039352" duration="2654000" />
+      <workItem from="1715271039352" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="fertig für den 8.04">
       <option name="closed" value="true" />
@@ -104,7 +100,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714738882315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fertig für den 8.04">
+      <option name="closed" value="true" />
+      <created>1715273988107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273988107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fertig für den 9.04">
+      <option name="closed" value="true" />
+      <created>1715273997606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715273997606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fertig für den 8.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="fertig für den 8.04" />
+    <MESSAGE value="fertig für den 9.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="fertig für den 9.04" />
   </component>
 </project>
