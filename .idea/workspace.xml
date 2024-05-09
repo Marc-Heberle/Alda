@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="fertig für den 8.04">
-      <change afterPath="$PROJECT_DIR$/Uebung_3/Mergesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uebung_3/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALDA_Uebung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ALDA_Uebung.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uebung_3/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung_3/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_3/Mergesort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
   "keyToString": {
     "Application.InsertionSortNotenMails.executor": "Run",
     "Application.Mergesort.executor": "Run",
+    "Application.QuickSort.executor": "Run",
     "Application.StackUPN.executor": "Run",
     "Application.Uebung_1_2.executor": "Run",
     "Application.Uebung_1_3.executor": "Run",
@@ -61,7 +60,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,8 +88,23 @@
       <workItem from="1714646455886" duration="62000" />
       <workItem from="1714653088599" duration="1905000" />
       <workItem from="1714722940598" duration="1021000" />
-      <workItem from="1714737676972" duration="1062000" />
+      <workItem from="1714737676972" duration="1206000" />
+      <workItem from="1714738961410" duration="60000" />
+      <workItem from="1714745497872" duration="26000" />
+      <workItem from="1715078288153" duration="586000" />
+      <workItem from="1715169816143" duration="359000" />
+      <workItem from="1715270626255" duration="16000" />
+      <workItem from="1715271039352" duration="2654000" />
     </task>
+    <task id="LOCAL-00001" summary="fertig für den 8.04">
+      <option name="closed" value="true" />
+      <created>1714738882315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714738882315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

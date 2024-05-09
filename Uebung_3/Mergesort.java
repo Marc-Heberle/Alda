@@ -48,8 +48,8 @@ public class Mergesort {
         Stopwatch zeitStopper = new Stopwatch();
         zeitStopper.start();
        insertionSortString(emails, 0, emails.length);
-        long elapsedTime = zeitStopper.umrechner();
-        StdOut.println("Zeit für InsertionSort bei 10000 Mails: " + elapsedTime + " MilliSekunden");
+        long abgelaufeneZeit = zeitStopper.umrechner();
+        StdOut.println("Zeit für InsertionSort bei 10000 Mails: " + abgelaufeneZeit + " MilliSekunden");
 
         String[] hilfe3 = new String[emails2.length];
         Stopwatch zeitStopp2 = new Stopwatch();
@@ -180,7 +180,7 @@ public class Mergesort {
     }
 
     public static String zufallsEmail() {
-        String nameEmail = "ALDA";
+        String nameEmail = "Martin";
         String[] domains = {"htwg-konstanz.de"};
 
         Random random = new Random();
