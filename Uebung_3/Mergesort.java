@@ -4,13 +4,13 @@ public class Mergesort {
     public static void main(String[] args) {
 
         int [] Noten = {1, 2 , 3 , 4 , 5};
-        Student Marc = new Student("Marc"," Marc@gmail.com", zufallsnoten(Noten), false);
-        Student Annikey = new Student("LOL", "Annikey@gmail.com", zufallsnoten(Noten), false);
+        Student Batz = new Student("Batz"," Batz@gmail.com", zufallsnoten(Noten), false);
+        Student LOL = new Student("LOL", "LOL@gmail.com", zufallsnoten(Noten), false);
         Student YOLO = new Student("YOLO", "YOLO@gmail.com", zufallsnoten(Noten), false);
-        Student Swag = new Student("Swag", "SWAG@gmail.com", zufallsnoten(Noten), false);
-        Student Bingo = new Student("bingo", "Bingo@gmail.com", zufallsnoten(Noten), false);
+        Student Swag = new Student("Swag", "Swag@gmail.com", zufallsnoten(Noten), false);
+        Student Bingo = new Student("bingo", "bingo@gmail.com", zufallsnoten(Noten), false);
         Student Bongo = new Student("Bongo", "Bongo@gmail.com", zufallsnoten(Noten), false);
-        Student [] students = {Marc, Annikey, YOLO, Swag, Bingo, Bongo};
+        Student [] students = {Batz,LOL, YOLO, Swag, Bingo, Bongo};
 
         int nummerStudent = students.length;
         int [] ZufallNote = new int[nummerStudent];
@@ -180,7 +180,7 @@ public class Mergesort {
     }
 
     public static String zufallsEmail() {
-        String nameEmail = "Martin";
+        String nameEmail = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String[] domains = {"htwg-konstanz.de"};
 
         Random random = new Random();

@@ -3,7 +3,9 @@ public class QuickSort {
     public static void main(String[] args) {
 
 
-        String[] array = {"H", "a", "p", "pi", "n", "e", "s", "s"};
+           String[] array = {"H", "a", "p", "pi", "n", "e", "s", "s"};
+
+
 
         sortieren(array, 0, array.length - 1);
         StdOut.println("Fertig: ");
@@ -33,7 +35,8 @@ public class QuickSort {
         int j= hinten +1;
         while(true){
             while(a[++i].compareTo(a[vorne])<0){
-                if(i==hinten) break;
+                if(i==hinten) 
+                    break;
             }
             while(a[--j].compareTo(a[vorne])>0){
                 if(j==vorne) break;
@@ -50,12 +53,16 @@ public class QuickSort {
         String temp= a[i];
         a[i]=a[j];
         a[j]=temp;
+        System.out.println(" Tausche "+a[i] + " mit " +a[j]);
+
+
     }
 
     private static void ausgabe(String[] a){
-        System.out.println("Array: ");
+        System.out.print("Array: ");
         for (String s : a){
             System.out.print(s+" ");
+
         }
         System.out.println();
     }

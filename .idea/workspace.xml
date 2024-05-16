@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="fertig für den 9.04" />
+    <list default="true" id="03d27ae0-35a0-4758-a11b-7ea69d8a0cd3" name="Changes" comment="fertig für den 14.04">
+      <change afterPath="$PROJECT_DIR$/Uebung_4/Notruf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALDA_Uebung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ALDA_Uebung.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung_3/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_3/Mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uebung_3/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uebung_3/QuickSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,34 +38,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.InsertionSortNotenMails.executor": "Run",
-    "Application.Mergesort.executor": "Run",
-    "Application.QuickSort.executor": "Run",
-    "Application.StackUPN.executor": "Run",
-    "Application.Uebung_1_2.executor": "Run",
-    "Application.Uebung_1_3.executor": "Run",
-    "Application.Uebung_2_1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/annik/Desktop/Semester_1/ALDA/ALDA_Uebung/Uebung_2",
-    "last_opened_file_path": "C:/Users/march/Desktop/Semster 1/Algorithmen und Datenstrukturen/ALDA_Uebung",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InsertionSortNotenMails.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mergesort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Notruf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackUPN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Uebung_1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Uebung_1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Uebung_2_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/annik/Desktop/Semester_1/ALDA/ALDA_Uebung/Uebung_2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/march/Desktop/Semster 1/Einführung in die Programmierung/World/Aufgabe7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="notenHTWG" />
@@ -90,7 +97,14 @@
       <workItem from="1715078288153" duration="586000" />
       <workItem from="1715169816143" duration="359000" />
       <workItem from="1715270626255" duration="16000" />
-      <workItem from="1715271039352" duration="3008000" />
+      <workItem from="1715271039352" duration="4951000" />
+      <workItem from="1715286226799" duration="1047000" />
+      <workItem from="1715519775354" duration="141000" />
+      <workItem from="1715666645191" duration="2321000" />
+      <workItem from="1715669618988" duration="659000" />
+      <workItem from="1715679709326" duration="3132000" />
+      <workItem from="1715686876238" duration="3928000" />
+      <workItem from="1715772436055" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="fertig für den 8.04">
       <option name="closed" value="true" />
@@ -116,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715273997606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fertig für den 14.04">
+      <option name="closed" value="true" />
+      <created>1715274064227</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715274064227</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fertig für den 8.04" />
     <MESSAGE value="fertig für den 9.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="fertig für den 9.04" />
+    <MESSAGE value="fertig für den 14.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="fertig für den 14.04" />
   </component>
 </project>
